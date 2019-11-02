@@ -25,7 +25,7 @@
 </b></p>深度神经网络结构设计与优化，污水处理过程特征建模与水质预测，离散事件动态系统的神经网络优化与控制策略</b></p>
 
 代表性论著
-</b></p>[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. IEEE Transactions on Automation Science and Engineering, 2018, 16(2): 874-885.</b></p>
+</b></p>[1] Wang G M, Qiao J F, Bi J, Li W j, Zhou M C. TL-GDBN: Growing Deep Belief Network With Transfer Learning. \it {IEEE Transactions on Automation Science and Engineering}, 2018, 16(2): 874-885.</b></p>
 </b></p>[2] Wang G M, Jia Q-S, Qiao J F, Bi J, Liu C X. A sparse deep belief network with efficient fuzzy learning framework. Neural Networks, 2020, 121: 430-440.</b></p>
 </b></p>[3] Qaio J F, Wang G M, Li W J, Li X L. A deep belief network with PLSR for nonlinear system modeling. Neural Networks, 2018, 104: 68-79.</b></p>
 </b></p>[4] Qaio J F, Wang G M, Li W J. An adaptive deep Q-learning strategy for handwritten digit recognition. Neural Networks, 2018, 107: 61-71.</b></p> 
