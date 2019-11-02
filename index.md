@@ -1,5 +1,5 @@
 ![image](https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg)
-<h4>王功明 &ensp 博士后 \ \ 清华大学自动化系智能与网络化研究中心<h4>
+<h4>王功明# # # 博士后 \ \ 清华大学自动化系智能与网络化研究中心<h4>
 <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
 <p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
 <p><b>合作导师：贾庆山（长聘副教授）</b></p>
