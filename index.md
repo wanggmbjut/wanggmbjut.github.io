@@ -9,12 +9,10 @@
       <p><b>合作导师：贾庆山(长聘副教授)</b></p>
     </td>
     <td width="25%">
-      ![login](https://github.com/wanggmbjut/wanggmbjut.github.io/blob/master/Gongming.jpg)
+      ![image](https://github.com/wanggmbjut/wanggmbjut.github.io/blob/master/Gongming.jpg)
     </td>
   </tr>
 </table>
-
-</b></p>![login](https://github.com/wanggmbjut/wanggmbjut.github.io/blob/master/Gongming.jpg)</b></p>
 
 <h5>教育背景<h>
 </b></p>2019年7月-至今    清华大学自动化系智能与网络化系统研究中心    博士后</b></p>
