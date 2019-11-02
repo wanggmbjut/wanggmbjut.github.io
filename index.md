@@ -8,7 +8,7 @@
       <p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
       <p><b>合作导师：贾庆山(长聘副教授)</b></p>
     </td>
-    <td width="25%">
+    <td width="10%">
       ![image](https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg)
     </td>
   </tr>
