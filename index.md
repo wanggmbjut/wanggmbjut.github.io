@@ -18,14 +18,11 @@
   <tr>
     <td width="75%">
       <h1>教育背景</h1>
-      <p><b>博士后&nbsp;&nbsp;&nbsp;清华大学自动化系智能与网络化研究中心</b></p>
-      <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
-      <p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
-      <p><b>合作导师：贾庆山（长聘副教授）</b></p>
-    </td>
-    <td width="25%">
-      <img src="https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg" width="100%"> 
-    </td>
+      2019年7月-至  清华大学自动化系智能与网络化系统研究中心  博士后
+</b></p>2015年9月-2019年7月  北京工业大学  控制科学与工程  博士</b></p>
+</b></p>2017年9月-2018年9月  美国俄勒冈大学  计算机与信息科学  联合培养博士</b></p>
+</b></p>2012年9月-2015年5月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;沈阳化工大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;控制科学与工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士</b></p>
+</b></p>2010年9月-2012年7月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曲阜师范大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电气工程及其自动化&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科</b></p>>
   </tr>
 </table>
 
