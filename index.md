@@ -14,6 +14,8 @@
   </tr>
 </table>
 
+![image](https://github.com/wanggmbjut/wanggmbjut.github.io/blob/master/Gongming.jpg)
+
 <h5>教育背景<h>
 </b></p>2019年7月-至今    清华大学自动化系智能与网络化系统研究中心    博士后</b></p>
 </b></p>2015年9月-2019年7月    北京工业大学    控制科学与工程    博士</b></p>
