@@ -14,17 +14,6 @@
   </tr>
 </table>
 
-
-
-
-
-
-![image](https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg)
-<h4>王功明 博士后  清华大学自动化系智能与网络化研究中心<h4>
-<p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
-<p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
-<p><b>合作导师：贾庆山（长聘副教授）</b></p>
-
 <h5>教育背景<h5>
 </b></p>2019年7月-至今    清华大学自动化系智能与网络化系统研究中心    博士后</b></p>
 </b></p>2015年9月-2019年7月    北京工业大学    控制科学与工程    博士</b></p>
