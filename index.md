@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-![image](https://github.com/wanggmbjut/wanggmbjut.github.io/master/Gongming.jpg)
+![image](https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg)
 
 <h5>教育背景<h>
 </b></p>2019年7月-至今    清华大学自动化系智能与网络化系统研究中心    博士后</b></p>
