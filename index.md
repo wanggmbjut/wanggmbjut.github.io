@@ -9,7 +9,7 @@
       <p><b>合作导师：贾庆山(长聘副教授)</b></p>
     </td>
     <td width="25%">
-      ![image](https://github.com/wanggmbjut/wanggmbjut.github.io/master/Gongming.jpg)
+      ![image](https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg)
     </td>
   </tr>
 </table>
