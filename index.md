@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>王功明</h1>
       <p><b>博士后</b></p>
       <p><b>清华大学自动化系智能与网络化研究中心</b></p>
@@ -13,8 +13,6 @@
     </td>
   </tr>
 </table>
-
-![image](https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg)
 
 <h5>教育背景<h>
 </b></p>2019年7月-至今    清华大学自动化系智能与网络化系统研究中心    博士后</b></p>
