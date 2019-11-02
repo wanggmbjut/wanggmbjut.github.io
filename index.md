@@ -1,3 +1,24 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>王功明</h1>
+      <p><b>博士后</b></p>
+      <p><b>清华大学自动化系智能与网络化研究中心</b></p>
+      <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
+      <p><b>地址：清华大学自动化系智能与网络化系统研究中心，FIT楼3-619，邮编100084</b></p>
+      <p><b>合作导师：贾庆山（长聘副教授）</b></p>
+    </td>
+    <td width="25%">
+      <img src="https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 ![image](https://github.com/wanggmbjut/wanggmbjut.github.io/raw/master/Gongming.jpg)
 <h4>王功明 博士后  清华大学自动化系智能与网络化研究中心<h4>
 <p><b>邮箱：wanggm@tsinghua.edu.cn</b></p>
